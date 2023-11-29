@@ -1,0 +1,2 @@
+variable "asg_frontend" {}
+
